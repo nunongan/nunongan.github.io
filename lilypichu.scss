@@ -1,3 +1,5 @@
+/* To add Images Later
+
 @forward 'stuff/chat';
 @forward 'stuff/server-list';
 @forward 'stuff/channel-list';
@@ -6,9 +8,10 @@
 @forward 'stuff/settings';
 @forward 'stuff/friends';
 @forward 'stuff/overlay';
-@forward 'stuff/other';
+@forward 'stuff/other'; 
 
-@import url('https://nyri4.github.io/donators/donators.css');
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Nunito');
 
 // Black box imports
@@ -26,7 +29,7 @@
 
   // Basic right popout when there's nothing
   .container-1eFtFS::after {
-    content: "Stay comfy ❤"; position: fixed;
+    content: "Nothing's Happening. 💤"; position: fixed;
     top: 220px; bottom: 85px; right: 60px; z-index: -2;
     width: 320px; background-color: var(--background-primary);
     text-align: center; display: flex; align-items: center;
@@ -35,7 +38,7 @@
     overflow: hidden;
   }
   .container-1eFtFS::before {
-    content: ""; position: fixed;
+    content: "Nothing's Happening. 💤"; position: fixed;
     top: 220px; bottom: 85px; right: 70px; z-index: -1;
     width: 300px; border-radius: var(--border-radius);
     background: var(--jumping-gif) bottom/40% no-repeat;

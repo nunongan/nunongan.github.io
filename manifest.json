@@ -1,7 +1,6 @@
 {
-    "icon": "assets/flower.png",
-    "name": "LilyPichu",
-    "description": "A theme based on @Melonturtle_ stream design",
+    "name": "Secret",
+    "description": "Originally Created by LiliPichu",
     "version": "1.2",
     "author": "Nyria#3863",
     "theme": "_variables.scss",
